@@ -1,0 +1,6 @@
+openshift_django/.env
+openshift_django/__pycache__
+app/__pycache__
+.dockerignore
+Dockerfile
+docker-compose.yml
